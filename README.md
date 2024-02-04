@@ -3,4 +3,5 @@ Code used for testing whether Zipft's law of abbreviation applied to different k
 
 To install dependencies run the following code on terminal:
 
+cd "PATH_TO_FOLDER ORIGIN"
 pip install -r requirements.txt
